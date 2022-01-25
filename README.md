@@ -1,5 +1,7 @@
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/1f83db67-2bd6-4887-bc65-a2e0ecf3e2da.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/github-slideshow?orgId=650162616495)  
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
 
 Oh! I haven't introduced myself...
